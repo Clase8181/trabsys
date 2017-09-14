@@ -11,11 +11,6 @@ public class Arquitecto {
     
 public Arquitecto(){
 
-
-
-
-
-
 }
 
     public Arquitecto(String lugarTrabajo, String titulo, String profesion) {
