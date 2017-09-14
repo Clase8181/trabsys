@@ -5,10 +5,6 @@
  */
 package trabajogrupo;
 
-/**
- *
- * @author Jaime
- */
 public class TrabajoGrupo {
 
     /**
