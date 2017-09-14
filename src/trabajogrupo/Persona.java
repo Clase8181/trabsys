@@ -10,5 +10,6 @@ package trabajogrupo;
  * @author Jaime
  */
 public class Persona {
+    String nombre;
     
 }
